@@ -1,4 +1,4 @@
-INSTALLAZIONE COMPONENT AUTO-SUGGEST
+INSTALLAZIONE PROGETTO EMBER-CLI BASIC
 
 
 /**************************************************
